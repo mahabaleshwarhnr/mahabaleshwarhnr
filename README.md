@@ -1,31 +1,31 @@
 # 👋 Hi, I'm Mahabaleshwar Hegde!
 
-### 🚀 Lead Mobile Application Developer | iOS Expert | Proficient in Android
+### 🚀 Senior Software Engineer | iOS & Android | 11+ Years
 
-I'm an experienced iOS developer with **9+ years** of expertise in developing scalable, high-quality mobile applications. In addition to iOS, I have **proficiency in Android**, having developed Android apps and performed code reviews. Passionate about building robust apps, leading teams, and modernizing software systems, I thrive in fast-paced, collaborative environments.
+Experienced mobile developer with **11+ years** of expertise in building scalable, high-quality **iOS and Android** applications. I lead projects, design architectures, and drive legacy modernization. Strong in app architecture, micro-feature design, and cross-platform development. I use **AI-augmented development** (Cursor, ChatGPT) to ship faster and improve code quality. Passionate about guiding teams, improving app performance, and delivering impact in fast-paced environments.
 
-- 🔭 I’m currently working on: **UniversityApp Project** with Jenkins for build automation.
-- 🌱 I’m currently learning: Advanced CI/CD pipelines, cloud-based mobile testing solutions, and AI integration in mobile applications.
-- 👯 I’m looking to collaborate on: Open-source iOS frameworks, SDK development, and mobile app modernization projects.
-- Experienced working in both enterprise and consumer-based apps.
-- 💬 Ask me about: **iOS development**, **Android development**, mobile app architecture (MVVM, MVI), SwiftUI vs UIKit, CI/CD for mobile, and app security best practices.
-- 📫 How to reach me: [mhegde.iosdeveloper@gmail.com](mailto:mhegde.iosdeveloper@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mahabaleshwar-hegde/)
-- 📝 Check out my blog: [mahabaleshwarhnr.medium.com](https://mahabaleshwarhnr.medium.com)
+- 🔭 **Currently working on:** Procore’s next-generation **map platform** (Spatial Data team)—unified map experience for horizontal construction, MapLibre, SpatiaLite, offline-first geospatial features.
+- 👯 **Looking to collaborate on:** Open-source iOS/Android frameworks, SDK development, super-app and micro-feature mobile architecture.
+- 💬 **Ask me about:** **iOS & Android development**, SwiftUI vs UIKit, MVVM/Clean Architecture, CI/CD for mobile, app security, and AI-augmented development.
+- 📫 **Reach me:** [mhegde.iosdeveloper@gmail.com](mailto:mhegde.iosdeveloper@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mahabaleshwar-hegde/) | [GitHub](https://github.com/mahabaleshwarhnr)
+- 📝 **Blog:** [mahabaleshwarhnr.medium.com](https://mahabaleshwarhnr.medium.com)
 
 ### 🌟 Skills
-- **iOS Development**: Swift, Objective-C, SwiftUI, UIKit, CoreData, Combine
-- **Android Development**: Kotlin, Jetpack, Android Studio, Code Reviews
-- **Testing & Automation**: Xcode, XCUItest, Jenkins, BuildKite, Proxyman
-- **CI/CD & Build Systems**: Jenkins, SPM, Cocoapods, Gradle, Maven
-- **Tools & Technologies**: REST, GraphQL, OData, Protobuf, SAP Cloud Platform for Mobile, Git, Agile, Scrum
+- **iOS:** Swift, Objective-C, SwiftUI, UIKit, Auto Layout, Combine, Core Data, FHIR, XCUITest, CocoaPods, SPM, Async/Await
+- **Android:** Kotlin, Jetpack, Gradle, Maven, Android Studio, Espresso
+- **Tools & APIs:** Proxyman, Postman, GraphQL, REST, OData, Protobuf, Git, Agile, Scrum, CI/CD (Jenkins, BuildKite)
+- **Architecture:** Super App, Micro-feature architecture, TDD, Clean Architecture, MVVM, Unit Testing, Legacy Modernization, App modularization
+- **AI & Productivity:** Cursor, ChatGPT, AI-assisted development workflows
+- **Domains:** Real Estate, Healthcare, Banking, Consumer & Enterprise Apps
 
-### 🏆 Achievements
-- Successfully led the development of a large-scale 🇦🇺 **real estate app** used by 3M users, modernizing the app and improving user experience.
-- Played a key role in the rollout of a 🇸🇬 **banking app** used by 1M users, significantly improving development efficiency.
-- Developed and contributed to the 🇮🇳 **healthcare app** used by millions, focusing on offline-first data handling and user security.
+### 🏆 Highlights
+- **Procore:** Building the next-gen map platform; integration layer for multiple tools on a unified map; MapLibre, SpatiaLite, offline-first geospatial; cross-functional work with platform, backend, and product.
+- **Thoughtworks:** Large-scale 🇦🇺 real estate app (3M+ users)—modernization, ~20% fewer complaints, ~5% sales uplift; 🇸🇬 banking app (1M users)—dev time 8hr→1hr; 🇮🇳 healthcare app (millions)—FHIR, offline, security; led 2 squads; built SDKs and super-app framework (5–6 new clients); mentored engineers at all levels.
+- **Incture:** Government HR mobile app (Middle East, SAP Cloud Platform); US oil client—coding standards; org-wide mobile community; mentored graduates and lateral hires.
+- **Earlier:** Enterprise logistics/trucking app, employee performance app (adopted by leadership), full app lifecycle ownership.
 
 ### 🌍 Domains
-- Healthcare, Banking, Real Estate, Lifestyle
+Healthcare · Banking · Real Estate · Consumer & Enterprise
 
 ### 🌍 Languages
-- English, Kannada, Hindi
+English, Kannada, Hindi
